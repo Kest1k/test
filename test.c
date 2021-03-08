@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    puts("Hello, World!");
+    puts("Love World!");
     return 0;
 }
