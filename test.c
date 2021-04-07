@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    puts("line from user1");
-line user1
+    puts("line user2");
     return 0;
 }
