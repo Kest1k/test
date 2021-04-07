@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    puts("Hello, World!12345");
+    puts("line from user1");
 line user1
     return 0;
 }
